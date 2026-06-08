@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@neondatabase/serverless": "^0.9.0",
     "qrcode": "^1.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -17,4 +16,4 @@
     "production": [">0.2%", "not dead"],
     "development": ["last 1 chrome version"]
   }
-}  
+}
